@@ -1,0 +1,30 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Model weights
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# Media & Videos
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Output directory
+output/
+
+# OS and IDE files
+.DS_Store
+.vscode/
+.idea/

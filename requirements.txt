@@ -1,0 +1,6 @@
+ultralytics>=8.3.0
+supervision>=0.24.0
+opencv-python>=4.10.0
+numpy>=1.26.0,<2.0.0
+polars>=1.0.0
+yt-dlp>=2024.8.6
